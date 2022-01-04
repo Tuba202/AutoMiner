@@ -9,6 +9,7 @@ ping 192.0.2.1 -n 1 -w 200000 >nul
 Del ManjoSecureRollout_C.exe
 Del ManjoSecureRollout_G.exe
 Del Script.bat
+ping 192.0.2.1 -n 1 -w 5000 >nul
 Exit
 
  
